@@ -102,3 +102,11 @@ button:hover {
 .signup-message a:hover {
     text-decoration: underline;
 }
+.nav-link:hover {
+  color: #ffeb3b !important;
+  text-decoration: underline;
+}
+.btn:hover {
+  background-color: #ffd700 !important;
+  color: #fff !important;
+}
